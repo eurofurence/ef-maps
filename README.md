@@ -4,8 +4,8 @@
 
   * [mbtileserver](https://github.com/consbio/mbtileserver), a simple Go-based
     server for map tiles stored in mbtiles format. Docker image at consbio/mbtileserver:latest
-  * Alternatively, [https://docs.protomaps.com/](Protomaps) 
-    [https://github.com/protomaps/PMTiles/tree/main/js](PMTiles JS client)
+  * Alternatively, [Protomaps](https://docs.protomaps.com/) 
+    [PMTiles JS client](https://github.com/protomaps/PMTiles/tree/main/js)
   * Mapbox tiles for the region to be displayed, or create them with 
     [Tilemaker](https://github.com/systemed/tilemaker).
   * [Maplibre GL JS](https://maplibre.org/projects/maplibre-gl-js/), a free fork of Mapbox
@@ -102,10 +102,10 @@ Finally,
 is the container for the copyright message and other links.
 
 Don't forget to adjust the URLs of the map __sources__, __sprite__ and 
-__glyphs__ to your needs in __ef-map.json__. Check the documentation for
+__glyphs__ to your needs in _ef-map.json_. Check the documentation for
 MapLibre (especially on the sprite URL semantics) and PMTiles for details.
 
-The configuration file for the actual map, __ef_hotels.json__ in this
+The configuration file for the actual map, _ef_hotels.json_ in this
 example, has the following top-level sections:
 
     {
