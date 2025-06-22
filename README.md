@@ -101,7 +101,12 @@ Finally,
 
 is the container for the copyright message and other links.
 
-The configuration file has the following top-level sections:
+Don't forget to adjust the URLs of the map __sources__, __sprite__ and 
+__glyphs__ to your needs in __ef-map.json__. Check the documentation for
+MapLibre (especially on the sprite URL semantics) and PMTiles for details.
+
+The configuration file for the actual map, __ef_hotels.json__ in this
+example, has the following top-level sections:
 
     {
       "geoJSON": "ef29-hotels.geojson",

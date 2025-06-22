@@ -11,7 +11,7 @@ body {
 }
 
 .venue {
-  background-image: url("/marker/eflogo_round.svg");
+  background-image: url("marker/eflogo_round.svg");
   background-size: cover;
   width: 32px;
   height: 32px;
@@ -19,7 +19,7 @@ body {
 }
 
 .hotel-featured {
-  background-image: url("/marker/hotelmarker.svg");
+  background-image: url("marker/hotelmarker.svg");
   background-size: cover;
   width: 32px;
   height: 48px;
@@ -28,7 +28,7 @@ body {
 }
 
 .hotel-featured-partner {
-  background-image: url("/marker/efhotel.svg");
+  background-image: url("marker/efhotel.svg");
   background-size: cover;
   width: 32px;
   height: 48px;
@@ -49,7 +49,7 @@ body {
 
 .logo-partner {
   display: inline-block;
-  background-image: url("/marker/eflogo_round.svg");
+  background-image: url("marker/eflogo_round.svg");
   background-size: cover;
   width: 12px;
   height: 12px;
@@ -58,7 +58,7 @@ body {
 }
 
 .dining {
-  background-image: url("/marker/dining.svg");
+  background-image: url("marker/dining.svg");
   background-size: cover;
   width: 32px;
   height: 48px;
@@ -67,7 +67,7 @@ body {
 }
 
 .dining-vegetarian {
-  background-image: url("/marker/dining-vegetarian.svg");
+  background-image: url("marker/dining-vegetarian.svg");
   background-size: cover;
   width: 32px;
   height: 48px;
@@ -76,7 +76,7 @@ body {
 }
 
 .dining-vegan {
-  background-image: url("/marker/dining-vegan.svg");
+  background-image: url("marker/dining-vegan.svg");
   background-size: cover;
   width: 32px;
   height: 48px;
@@ -85,7 +85,7 @@ body {
 }
 
 .dining-glutenfree {
-  background-image: url("/marker/dining-glutenfree.svg");
+  background-image: url("marker/dining-glutenfree.svg");
   background-size: cover;
   width: 32px;
   height: 48px;
@@ -94,7 +94,7 @@ body {
 }
 
 .museum {
-  background-image: url("/marker/museum.svg");
+  background-image: url("marker/museum.svg");
   background-size: cover;
   width: 32px;
   height: 48px;
@@ -103,7 +103,7 @@ body {
 }
 
 .park {
-  background-image: url("/marker/park.svg");
+  background-image: url("marker/park.svg");
   background-size: cover;
   width: 32px;
   height: 48px;
@@ -112,7 +112,7 @@ body {
 }
 
 .photo {
-  background-image: url("/marker/photo.svg");
+  background-image: url("marker/photo.svg");
   background-size: cover;
   width: 32px;
   height: 48px;
@@ -121,7 +121,7 @@ body {
 }
 
 .generic {
-  background-image: url("/marker/generic.svg");
+  background-image: url("marker/generic.svg");
   background-size: cover;
   width: 32px;
   height: 48px;
@@ -130,7 +130,7 @@ body {
 }
 
 .hotel-osm {
-  background-image: url("/marker/transparent.png");
+  background-image: url("marker/transparent.png");
   background-size: cover;
   width: 16px;
   height: 16px;
@@ -138,7 +138,7 @@ body {
 }
 
 .rail {
-  background-image: url("/marker/rail-station.svg");
+  background-image: url("marker/rail-station.svg");
   background-size: cover;
   width: 20px;
   height: 20px;
@@ -146,7 +146,7 @@ body {
 }
 
 .subway {
-  background-image: url("/marker/subway-station.svg");
+  background-image: url("marker/subway-station.svg");
   background-size: cover;
   width: 20px;
   height: 20px;
@@ -154,7 +154,7 @@ body {
 }
 
 .bus {
-  background-image: url("/marker/busstop.svg");
+  background-image: url("marker/busstop.svg");
   background-size: cover;
   width: 16px;
   height: 16px;
